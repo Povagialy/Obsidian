@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Базовые ссылки.md",
+                "file": "МГУ/Новые направления СЭГ.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "fecba30be8defd0d",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базовые ссылки.md",
+                "file": "МГУ/Новые направления СЭГ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базовые ссылки.md",
+                "file": "МГУ/Новые направления СЭГ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Базовые ссылки.md"
+                "file": "МГУ/Новые направления СЭГ.md"
               }
             }
           },
@@ -163,16 +172,18 @@
       "audio-recorder:Начать/остановить запись": false,
       "markdown-importer:Импорт Markdown-файлов": false,
       "workspaces:Пространства": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d7014d550c3e78b3",
+  "active": "fecba30be8defd0d",
   "lastOpenFiles": [
-    "МГУ/Тенденции развития регионов.md",
-    "МГУ/Новые направления СЭГ.md",
+    "Календарь",
     "МГУ/Пространственная экономика.md",
+    "МГУ/Тенденции развития регионов.md",
     "Базовые ссылки.md",
     "Изображения/telegram-cloud-photo-size-2-5440758090199845354-y.jpg",
+    "МГУ/Новые направления СЭГ.md",
     "Документы",
     "Изображения",
     "Работа/ПО ЦБП",
