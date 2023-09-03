@@ -1,3 +1,15 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-kanban",
+  "table-editor-obsidian",
+  "calendar",
+  "obsidian-tasks-plugin",
+  "url-into-selection",
+  "cmenu-plugin",
+  "obsidian-pandoc",
+  "convert-url-to-iframe",
+  "editing-toolbar",
+  "obsidian-languagetool-plugin",
+  "obsidian-icon-folder",
+  "cm-typewriter-scroll-obsidian"
 ]

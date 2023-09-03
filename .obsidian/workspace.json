@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fec784dca54805ec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bc561c60f1d5e30f",
+            "id": "d7014d550c3e78b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Документ для проверки merge.md",
-                "mode": "preview",
+                "file": "Базовые ссылки.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Документ для проверки merge.md",
+                "file": "Базовые ссылки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Документ для проверки merge.md",
+                "file": "Базовые ссылки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,16 +125,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Документ для проверки merge.md"
+                "file": "Базовые ссылки.md"
               }
             }
+          },
+          {
+            "id": "688a229aa20073dd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "42d4bf72b423c492",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,12 +159,32 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "workspaces:Пространства": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc561c60f1d5e30f",
+  "active": "d7014d550c3e78b3",
   "lastOpenFiles": [
+    "МГУ/Тенденции развития регионов.md",
+    "МГУ/Новые направления СЭГ.md",
+    "МГУ/Пространственная экономика.md",
+    "Базовые ссылки.md",
+    "Изображения/telegram-cloud-photo-size-2-5440758090199845354-y.jpg",
+    "Документы",
+    "Изображения",
+    "Работа/ПО ЦБП",
+    "Работа/IMOS",
+    "Работа/АКИ",
+    "Работа",
     "README.md",
-    "Документ для проверки merge.md"
+    "Схема работы подразделения.md",
+    "Документ для проверки merge.md",
+    "Без названия.canvas",
+    "Работа/ЦП",
+    "Работа/ИС РПП",
+    "МГУ"
   ]
 }
