@@ -1,5 +1,9 @@
 {
   "accentColor": "",
   "cssTheme": "Big Sur Aesthetic",
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": [
+    "snipet"
+  ],
+  "theme": "moonstone"
 }

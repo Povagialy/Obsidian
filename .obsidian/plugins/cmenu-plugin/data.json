@@ -15,11 +15,16 @@
       "id": "obsidian-git:fetch",
       "name": "Obsidian Git: fetch",
       "icon": "checkmark"
+    },
+    {
+      "id": "obsidian-tasks-plugin:edit-task",
+      "name": "Tasks: Create or edit task",
+      "icon": "pencil"
     }
   ],
   "appendMethod": "workspace",
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
-  "cMenuNumRows": 9
+  "cMenuNumRows": 4
 }

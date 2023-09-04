@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "МГУ/Новые направления СЭГ.md",
+                "file": "МГУ/Тенденции развития регионов.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "МГУ/Новые направления СЭГ.md",
+                "file": "МГУ/Тенденции развития регионов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "МГУ/Новые направления СЭГ.md",
+                "file": "МГУ/Тенденции развития регионов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "МГУ/Новые направления СЭГ.md"
+                "file": "МГУ/Тенденции развития регионов.md"
               }
             }
           },
@@ -159,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,14 +176,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "fecba30be8defd0d",
+  "active": "d7014d550c3e78b3",
   "lastOpenFiles": [
-    "Календарь",
-    "МГУ/Пространственная экономика.md",
+    "МГУ/Новые направления СЭГ.md",
     "МГУ/Тенденции развития регионов.md",
     "Базовые ссылки.md",
+    "Работа/ЦП/Документация по ЦП.md",
+    "Изображения/obsidian-default-theme 1.css",
+    "Изображения/obsidian-default-theme.css",
+    "Календарь",
+    "МГУ/Пространственная экономика.md",
     "Изображения/telegram-cloud-photo-size-2-5440758090199845354-y.jpg",
-    "МГУ/Новые направления СЭГ.md",
     "Документы",
     "Изображения",
     "Работа/ПО ЦБП",
@@ -194,8 +197,6 @@
     "Схема работы подразделения.md",
     "Документ для проверки merge.md",
     "Без названия.canvas",
-    "Работа/ЦП",
-    "Работа/ИС РПП",
-    "МГУ"
+    "Работа/ЦП"
   ]
 }
