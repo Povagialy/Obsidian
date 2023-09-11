@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "МГУ/Оценка воздействия окружающей среды.md",
+                "file": "МГУ/Тенденции развития регионов.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "МГУ/Оценка воздействия окружающей среды.md",
+                "file": "МГУ/Тенденции развития регионов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "МГУ/Оценка воздействия окружающей среды.md",
+                "file": "МГУ/Тенденции развития регионов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "МГУ/Оценка воздействия окружающей среды.md"
+                "file": "МГУ/Тенденции развития регионов.md"
               }
             }
           },
@@ -154,12 +154,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,12 +175,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d7014d550c3e78b3",
+  "active": "10e8045c2f37665a",
   "lastOpenFiles": [
-    "МГУ/Новые направления СЭГ.md",
     "МГУ/Оценка воздействия окружающей среды.md",
     "МГУ/Пространственная экономика.md",
     "МГУ/Тенденции развития регионов.md",
+    "МГУ/Новые направления СЭГ.md",
     "Базовые ссылки.md",
     "Работа/ЦП/Документация по ЦП.md",
     "Работа/ПО ЦБП/Регламент работы управления IT-развития.md",
