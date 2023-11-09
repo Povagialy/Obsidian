@@ -13,34 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "МГУ/Тенденции развития регионов.md",
+                "file": "Базовые ссылки.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fecba30be8defd0d",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "6457f1a01e3af3bf",
+            "id": "5478a9d0e530c9ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "МГУ/Оценка воздействия окружающей среды.md",
+                "file": "МГУ/Географическая экспертиза.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "МГУ/Оценка воздействия окружающей среды.md",
+                "file": "МГУ/Географическая экспертиза.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "МГУ/Оценка воздействия окружающей среды.md",
+                "file": "МГУ/Географическая экспертиза.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "МГУ/Оценка воздействия окружающей среды.md"
+                "file": "МГУ/Географическая экспертиза.md"
               }
             }
           },
@@ -155,14 +147,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "42d4bf72b423c492",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
@@ -198,15 +182,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "10e8045c2f37665a",
+  "active": "5478a9d0e530c9ab",
   "lastOpenFiles": [
     "Базовые ссылки.md",
-    "МГУ/Оценка воздействия окружающей среды.md",
-    "МГУ/Пространственная экономика.md",
+    "МГУ/Проектная деятельность.md",
     "МГУ/Тенденции развития регионов.md",
+    "МГУ/Географическая экспертиза.md",
+    "МГУ/Оценка воздействия окружающей среды.md",
+    "Работа/ПО ЦБП/Регламент работы управления IT-развития.md",
+    "Работа/Правки ВА.md",
+    "МГУ/Пространственная экономика.md",
     "МГУ/Новые направления СЭГ.md",
     "Работа/ЦП/Документация по ЦП.md",
-    "Работа/ПО ЦБП/Регламент работы управления IT-развития.md",
     "Без названия",
     "Изображения/obsidian-default-theme 1.css",
     "Изображения/obsidian-default-theme.css",
